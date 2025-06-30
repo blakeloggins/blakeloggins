@@ -1,7 +1,7 @@
-## Blake's README
+## 📙 Blake's README
 This README is a quick look at how I think, learn, and collaborate. I am here to learn and help make sure our team is successful in any way I can.
 
-### My Journey
+### 🚀 My Journey
 **TLDR:** Former Marine with a non-traditional path into tech, now a Forward Deployed Engineer focused on continuous learning through practical, hands-on experience.
 
 After high school, I joined the Marine Corps instead of pursuing college as I had initially planned. What I thought would be a quick enlistment ended up becoming nearly 11 years of service, during which I held a range of unique roles across various parts of the world including Niger, Venezuela, and Portugal.
@@ -10,7 +10,7 @@ To transition into a career in tech, I went through [Microsoft Software and Syst
 
 Currently, I’m a Forward Deployed Engineer (FDE) on the Federal team at Virtru. I’ve gained a lot of knowledge along the way, but I still see myself as a lifelong learner and am eager to expand my expertise with this new team. Although I’m relatively early in my career, I bring both determination and curiosity, and I look forward to continuing to grow in this dynamic field.
 
-### About Me
+### 🧠 About Me
 - **Reports to**: Lee Horton
 - **Location**: Tampa, FL
 - **Hometown**: Colorado Springs, CO
@@ -24,7 +24,7 @@ Currently, I’m a Forward Deployed Engineer (FDE) on the Federal team at Virtru
   - Before 9am CST, and after lunch on Fridays
   - Same-day scheduling
 
-### Fun Facts / Favorites
+### 🎉 Fun Facts / Favorites
 - **Sports**: Love football and hockey (Bucs, Broncos, Lightning)
 - **Entertainment**: Witcher, Game of Thrones, The Walking Dead, Elder Scrolls, Pokémon
 - **Music**: I ~~stole~~ borrowed my dad's Nirvana Nevermind CD (twice) as a kid, and my first CD ever was Metallica's Black Album.
@@ -38,5 +38,5 @@ Feel free to reach out if you share any of these interests or just want to chat!
 
 ---
 
-### About README
+### 🛠️ About README
 - I will continue to iterate on this ~~as my teams lose~~ as I grow and change.
