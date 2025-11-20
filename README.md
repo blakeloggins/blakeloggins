@@ -18,7 +18,7 @@ Currently, I’m a Forward Deployed Engineer (FDE) on the Federal team at Virtru
 - **Appreciate**: Planning ahead
 - **How I Learn**: By doing, hands-on work, repetition
 - **How I Work**:
-  - Do my best work with uninterupted focus time, especially for deep technical tasks
+  - Do my best work with uninterrupted focus time, especially for deep technical tasks
   - Also highly value open collaboration!
 - **Calendar Aversions**:
   - Before 9am CST, and after lunch on Fridays
